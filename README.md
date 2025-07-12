@@ -59,7 +59,7 @@ Despite having a streamlined consultation model and empathetic advisors, Ditto's
 
 ## 📄 Deliverables
 
-- 📘 [Final Report (PDF)](./Documents/Enhancing_Customer_Experience_at_Ditto.pdf)
+- 📘 [View Full CX Report](./Enhancing%20Customer%20Experience%20at%20Ditto.pdf)
 - 🧭 CX Journey Maps & Flowcharts *(Not included here but referenced in the report)*
 - 📌 Detailed solution roadmap with impact/practicality matrix
 
