@@ -1,92 +1,40 @@
-# Customer-Experience-Insurance
-Analyzed and redesigned the customer experience journey, at an insurance advisory platform. Proposed human-centric improvements across booking, advisor interaction, and post-sale support to enhance usability, personalization, and customer retention.
-# 🚀 Enhancing Customer Experience at Ditto
+# 🛡️ Customer Experience Redesign – Insurance Sector (Ditto)
 
-This project presents a comprehensive customer experience (CX) analysis for **Ditto**, a digital-first insurance advisory platform. The goal is to identify improvement opportunities across user journeys and propose actionable, human-centric solutions.
+## 📌 Overview
+This case study was designed to explore friction points across the insurance customer journey, with a focus on onboarding and claims communication. The objective was to propose an improved experience that could support business teams in increasing policy conversions and customer retention.
 
-## 🎯 Objective
+## 🔍 Problem Statement
+Insurance onboarding and claims communication are often filled with jargon, delays, and a lack of clarity — leading to low conversion rates and poor post-sale engagement.
 
-To evaluate and enhance Ditto's customer journey through:
+## 🎯 Project Goals
+- Identify key friction points in onboarding and claims stages.
+- Propose a user-centric redesign to enhance clarity and trust.
+- Estimate potential conversion uplift from recommended changes.
+- Simulate a real product decision-making scenario using industry tools.
 
-- Website usability review
-- Advisor interaction assessment
-- Evaluation of offerings
-- Strategic CX improvement roadmap
+## 📊 Key Research Insights
+- Mapped the end-to-end journey from lead generation to claim filing.
+- Benchmarked 3 insurance platforms and identified poor UI messaging, lack of self-serve claims updates, and delayed communication as common blockers.
+- Used user personas and qualitative journey mapping to prioritize pain points.
 
----
+## 🧠 Proposed Solution
+- Redesigned the onboarding flow to simplify product explanation and streamline CTAs.
+- Introduced a claims tracker UI and proactive communication touchpoints during claim processing.
+- Recommended a content strategy shift toward FAQ-style onboarding messaging.
 
-## 🧩 Problem Statement
+## 📈 Impact (Simulated)
+- Projected 15–18% improvement in conversion based on journey simplification and reduced drop-off points.
+- Shared proposal with experienced professionals in the insurance and product space, receiving feedback on practical feasibility.
+- Documented as a reference journey map for early-stage teams designing user-centric insurance platforms.
 
-Despite having a streamlined consultation model and empathetic advisors, Ditto's customer experience reveals gaps in:
-- Slot availability notifications
-- Personalization during advisor calls
-- Accessibility and inclusivity in platform design
-- Post-sale user engagement
+## 🛠 Tools Used
+Lucidchart, Excel, Google Sheets
 
----
+## 📂 Project Files
+- `PRD_Ditto_Onboarding_Claims.pdf`
+- `Customer_Journey_Map.png`
+- `Impact_Assumptions.xlsx`
 
-## 📈 My Approach
-
-1. **Current State Mapping**  
-   - Booking process walkthrough  
-   - Advisor interaction simulation  
-   - Offerings review with actual product comparison
-
-2. **Gap Analysis**  
-   - Identified usability and personalization challenges  
-   - Evaluated customer touchpoints holistically
-
-3. **Strategic Recommendations**  
-   - Prioritized high- and low-impact solutions  
-   - Focused on accessibility, personalization, transparency, and retention
-
----
-
-## 🧠 Key Insights & Recommendations
-
-### High Priority:
-- Enhanced appointment notifications & post-booking resources
-- Real-time personalization tools for advisors
-- Transparent health/eligibility guidelines
-- Expanded post-sale lifecycle support
-
-### Low Priority:
-- Multilingual interface and advisory services
-- Gamified insurance education tools
-- Personalized user dashboards
-
----
-
-## 📄 Deliverables
-
-- 📘 [View Full CX Report](./Enhancing%20Customer%20Experience%20at%20Ditto.pdf)
-- 🧭 CX Journey Maps & Flowcharts *(Not included here but referenced in the report)*
-- 📌 Detailed solution roadmap with impact/practicality matrix
-
----
-
-## 💡 Impact
-
-These suggestions aim to:
-- Increase customer retention
-- Reduce confusion and friction points
-- Foster greater user trust and engagement
-- Align business operations with a human-first insurance model
-
----
-
-## 🔍 Tools/Skills Demonstrated
-
-- CX Mapping
-- Journey Evaluation
-- Product Thinking
-- Problem-Solving & Prioritization
-- User-Centric Analysis
-
----
-
-## 📬 About Me
-
-👋 I'm Paramjeet Singh, currently at Amazon, exploring roles in **Business Analysis** and **Product Ownership**. I enjoy creating impactful user experiences and solving real-world business problems with structured thinking.
-
-[Connect on LinkedIn](http://linkedin.com/in/paramjeet-singh-55459a163) | [Email me](paramjeet_singh1995@yahoo.in)
+## 🔗 Useful Links
+- [PRD PDF](./PRD_Ditto_Onboarding_Claims.pdf)
+- [GitHub Project Repo](https://github.com/psingh2895/Customer-Experience-Insurance)
