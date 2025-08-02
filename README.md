@@ -30,11 +30,6 @@ Insurance onboarding and claims communication are often filled with jargon, dela
 ## 🛠 Tools Used
 Lucidchart, Excel, Google Sheets
 
-## 📂 Project Files
-- `PRD_Ditto_Onboarding_Claims.pdf`
-- `Customer_Journey_Map.png`
-- `Impact_Assumptions.xlsx`
-
 ## 🔗 Useful Links
 - [PRD PDF](./PRD_Ditto_Onboarding_Claims.pdf)
 - [GitHub Project Repo](https://github.com/psingh2895/Customer-Experience-Insurance)
