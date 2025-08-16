@@ -31,5 +31,5 @@ Insurance onboarding and claims communication are often filled with jargon, dela
 Lucidchart, Excel, Google Sheets
 
 ## 🔗 Useful Links
-- [PRD PDF](https://github.com/psingh2895/Customer-Experience-Insurance/blob/main/Enhancing%20Customer%20Experience%20at%20Ditto.pdf)
+- [CX Redesign Report](https://github.com/psingh2895/Customer-Experience-Insurance/blob/main/Enhancing%20Customer%20Experience%20at%20Ditto.pdf)
 - [GitHub Project Repo](https://github.com/psingh2895/Customer-Experience-Insurance)
