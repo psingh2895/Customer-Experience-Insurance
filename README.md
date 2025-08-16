@@ -32,4 +32,5 @@ Lucidchart, Excel, Google Sheets
 
 ## 🔗 Useful Links
 - [CX Redesign Report](https://github.com/psingh2895/Customer-Experience-Insurance/blob/main/Enhancing%20Customer%20Experience%20at%20Ditto.pdf)
+- [View detailed Flowchart & Images](images)
 - [GitHub Project Repo](https://github.com/psingh2895/Customer-Experience-Insurance)
